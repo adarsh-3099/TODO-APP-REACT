@@ -11,4 +11,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This project is deployed using surge
 
-## Url - http://adarsh-todo.surge.sh/
+## Url - http://bloody-bike.surge.sh/
